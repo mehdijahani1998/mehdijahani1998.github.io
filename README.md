@@ -1,6 +1,3 @@
-# mehdijahani1998.github.io
-test repo for my personal webpage.
-
 # Quick Review on Git and GitHub
 
 ## Git and GitHub are two different things
